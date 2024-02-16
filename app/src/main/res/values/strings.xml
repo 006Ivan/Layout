@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ivan </string>
+    <string name="Title">About Me</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi my name is Ivan.I like music, coding and gaming.In my spare time I code mainly website, make music and play video games like fortnite, apex legends and EA FC24 (fifa 24)</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
